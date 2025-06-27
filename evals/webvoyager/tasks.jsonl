@@ -633,3 +633,4 @@
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--42", "ques": "What is the raw memory of a 100.2\" * 123.5\" true colour picture at 72 ppi?", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--43", "ques": "A polyominoes of order 6 means you have 6 identical squares to combine different shapes (2-sided). How many combinations are there? Looking at all the shapes in the result, how many of them have only 2 rows in total?", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--44", "ques": "Solve the ODE, g' + cos(g) = 0, if there is a constant in the result, determine the value of the constant by the condition that g(0) = 1.", "web": "https://www.wolframalpha.com/"}
+
